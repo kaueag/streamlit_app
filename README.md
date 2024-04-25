@@ -1,3 +1,7 @@
+# App no Streamlit para predição de nível de obesidade
+
+App feito no Streamlit para fazer a predição baseado no modelo que contruí com Logistic Regression. O usuário pode tanto colocar os dados manualmente quanto fazer upload de uma tabela e baixar a predição em formato de tabela.
+
 # Instruções para instalação
 
 ```bash
