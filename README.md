@@ -9,6 +9,10 @@ conda create -n stenv python=3.8
 conda activate stenv
 pip install -r requirements.txt
 ```
+![obesity](https://github.com/user-attachments/assets/b4245954-c619-4fd7-bdb6-e875dae09273)
+
+![obesidade3](https://github.com/user-attachments/assets/5fb6a70b-f070-4488-a6d7-f6ccfe2231c9)
+
 
 # Referências
 - [Streamlit Documentation](https://docs.streamlit.io/library/api-reference/widgets)
